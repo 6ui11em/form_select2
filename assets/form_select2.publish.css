@@ -1,5 +1,6 @@
 .select2-container {
 	display: block;
+	width: 100% !important;
 }
 .select2-container .select2-results li {
 	color: #000;
