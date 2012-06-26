@@ -1,0 +1,8 @@
+.select2-container {
+	display: block;
+}
+.select2-container .select2-results li {
+	color: #000;
+	padding: 3px 7px 4px;
+	line-height: 14px;
+}
