@@ -8,6 +8,12 @@ Github Repository:
 Requirements: Symphony 2.3
 
 Apply Select2 plugin in Symphony CMS backend forms. Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+ 
+jQuery Select2 Plugin:  
+[http://ivaynberg.github.com/select2/][1]
+
+
+  [1]: http://ivaynberg.github.com/select2/
 
 Installation
 -------------------------------------------------------------------------------

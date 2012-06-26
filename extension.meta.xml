@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="form_select2" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Form Select2</name>
-	<description>Apply jQuery Select2 plugin to the Symphony CMS backend forms. Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.</description>
+	<description>
+		Apply jQuery Select2 plugin to the Symphony CMS backend forms. Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+		<br /><br />
+		JQuery Select2 Plugin:<br />
+		<a href="https://github.com/6ui11em/form_select2">https://github.com/6ui11em/form_select2</a>
+	</description>
 	<repo type="github">https://github.com/6ui11em/form_select2</repo>
 	<url type="discuss"></url>
 	<types>
